@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "838076439627",
+    "firebase_url": "https://glinkwork-895be.firebaseio.com",
+    "project_id": "glinkwork-895be",
+    "storage_bucket": "glinkwork-895be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838076439627:android:a35732278750fc8f41c1ce",
+        "android_client_info": {
+          "package_name": "vn.di4l.glinkwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838076439627-83l8rctlmfq3l0urtioadssnscjgt4lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkwork",
+            "certificate_hash": "b5ae1c49870da8974afd92dfa2bdf4258a148e5d"
+          }
+        },
+        {
+          "client_id": "838076439627-8qfvec0poohau94k9up0v2pr9jr68ue2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkwork",
+            "certificate_hash": "bddbd8f854af81a2bb362ee32551569e90e960f5"
+          }
+        },
+        {
+          "client_id": "838076439627-5g8nm2o8d04e45rp138bc15olv0hua31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkwork",
+            "certificate_hash": "aa8d2abec0bf4a52c4c48e2a6675eb89365c5f02"
+          }
+        },
+        {
+          "client_id": "838076439627-nhr0a64n9gih8eje6rml8d166fivjqsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkwork",
+            "certificate_hash": "a9d9b65ecb57e313288ee9a71d512abb71431ecb"
+          }
+        },
+        {
+          "client_id": "838076439627-6m47253thpsrked0feq9jnfga31mgbcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkwork",
+            "certificate_hash": "7f78e52f84f45d218281f098aee88822d865ec33"
+          }
+        },
+        {
+          "client_id": "838076439627-p961peadn92ovo4nihpg9bn12m3s5qo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkwork",
+            "certificate_hash": "ad4175d9d82bf165ecb918b9341c13b360f05de6"
+          }
+        },
+        {
+          "client_id": "838076439627-5ertkapp8glep5ner9ghvhgmjsb4effk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkwork",
+            "certificate_hash": "8f15a2386c242417d83c9e594c327e8149b67df2"
+          }
+        },
+        {
+          "client_id": "838076439627-lultu8neo4mgecilia9cbl57fris5m1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiEpMXwjR-yCf2gpBFI-nFPUPw7cHwSRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838076439627-lultu8neo4mgecilia9cbl57fris5m1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838076439627-8506n3truqa4q71kla1kd9qm2bhcjh21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.di4l.glinkworkprovider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838076439627:android:0b9c5039ff005f8841c1ce",
+        "android_client_info": {
+          "package_name": "vn.di4l.glinkwork.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838076439627-kauka01l21gmo06usp741tp8ksnbivtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkwork.provider",
+            "certificate_hash": "04a6c5045acb36fa241b8257368b60c6d2b47398"
+          }
+        },
+        {
+          "client_id": "838076439627-8d6od3me6ujgldfe560llmtlp3rgudkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkwork.provider",
+            "certificate_hash": "a9d9b65ecb57e313288ee9a71d512abb71431ecb"
+          }
+        },
+        {
+          "client_id": "838076439627-peh6p7m6c9122naqbjqv56sroj0fd2rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkwork.provider",
+            "certificate_hash": "ad4175d9d82bf165ecb918b9341c13b360f05de6"
+          }
+        },
+        {
+          "client_id": "838076439627-vrkaq00qps6dt4u2ouokb4udbc3itqgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkwork.provider",
+            "certificate_hash": "7f78e52f84f45d218281f098aee88822d865ec33"
+          }
+        },
+        {
+          "client_id": "838076439627-9s6ddo3auuaevatqm7ih16i0875qi8aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.di4l.glinkwork.provider",
+            "certificate_hash": "8f15a2386c242417d83c9e594c327e8149b67df2"
+          }
+        },
+        {
+          "client_id": "838076439627-lultu8neo4mgecilia9cbl57fris5m1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiEpMXwjR-yCf2gpBFI-nFPUPw7cHwSRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838076439627-lultu8neo4mgecilia9cbl57fris5m1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838076439627-8506n3truqa4q71kla1kd9qm2bhcjh21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.di4l.glinkworkprovider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
